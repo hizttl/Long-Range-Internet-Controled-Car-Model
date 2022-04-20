@@ -6,4 +6,4 @@ Hardware:
 - Brushed dc motor x4
 - 3.7v LiIon Battery x4
 
-This directory is containing the code for the Website and Hardware part of the project.
+This directory is containing the code for the Website and Hardware.
